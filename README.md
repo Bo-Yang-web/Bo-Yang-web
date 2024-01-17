@@ -13,10 +13,10 @@
 
 
 
-- 🍻  _BSc in Detection guidance and control technology_ [UESTC](https://www.uestc.edu.cn) ;
 -  Gamer and student
 -  Rencently interest in AI agent and deep learning texture render
-
+-  _BSc in Detection guidance and control technology_ [UESTC](https://www.uestc.edu.cn) ;
+-  
 <!-- 
   <div>
   - ✍️
